@@ -35,16 +35,3 @@ plt.show()
 
 
 
-
-
-
-
-
-
-#with open("/home/alanah/Downloads/Expression_Public_22Q4.csv", 'r') as expression:
- # csvreader = csv.reader(expression)
-  
-#with open("/home/alanah/Downloads/Damaging_Mutations.csv", 'r') as mutations:
- #   csvreader = csv.reader(mutations)
-
-
